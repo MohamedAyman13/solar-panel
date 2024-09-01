@@ -1140,6 +1140,7 @@ div#footer div.footer-terms p {
 
     div#solar-kits-section div.solar-kit-cards {
         gap: 50px;
+        flex-direction: column;
     }
 
     div#solar-kits-section div.solar-kit-cards div.solar-kit-card {
@@ -1159,8 +1160,13 @@ div#footer div.footer-terms p {
         text-align: center;
     }
 
+
+    div#blog-section div.content div.side2 {
+        flex-direction: column;
+    }
+
     div#blog-section div.content div.side2 div.blog-card {
-        flex: 0 0 47%;
+        flex: 0 0 100%;
     }   
 
     /* Our Values Section */
