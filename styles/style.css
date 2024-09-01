@@ -225,8 +225,8 @@ div#second-section div.image-part div.info {
     border-radius: 12px;
     background-color: #FFBB1C;
     position: absolute;
-    bottom: 70px;
-    left: -60px;
+    bottom: 12%;
+    left: -15%;
 }
 
 div#second-section div.image-part div.info img {
@@ -652,7 +652,7 @@ div#footer div.footer-terms p {
 
 /* Mobile responsive */
 
-@media (max-width: 460px) {
+@media (max-width: 500px) {
     h2 {
         font-size: 28px;
     }
@@ -758,8 +758,8 @@ div#footer div.footer-terms p {
         height: 110px;
         position: absolute;
         padding: 16px;
-        bottom: 50px;
-        left: -30px;
+        bottom: 7%;
+        left: -3%;
     }
 
     div#second-section div.image-part div.info img {
@@ -997,7 +997,7 @@ div#footer div.footer-terms p {
 
 /* Tablet responsive */
 
-@media (min-width: 461px) and (max-width: 787px ) {
+@media (min-width: 501px) and (max-width: 787px ) {
 
     h2 {
         font-size: 28px;
@@ -1088,8 +1088,8 @@ div#footer div.footer-terms p {
         height: 140px;
         border-radius: 10px;
         position: absolute;
-        bottom: 50px;
-        left: -30px;
+        bottom: 10%;
+        left: -10%;
     }
 
     div#second-section div.image-part div.info img {
@@ -1369,8 +1369,8 @@ div#footer div.footer-terms p {
         padding: 24px 30px;
         border-radius: 10px;
         position: absolute;
-        bottom: 70px;
-        left: -60px;
+        bottom: 25%;
+        left: -15%;
     }
 
     div#second-section div.image-part div.info img {
