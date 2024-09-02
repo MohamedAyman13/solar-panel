@@ -978,15 +978,15 @@ div#footer div.footer-terms p {
     }
 
     div#footer div.footer-content div.footer-contact form input {
-        width: 250px;
+        width: 150px;
         height: 44px;
         border-radius: 34px;
-        font-size: 14px;
+        font-size: 12px;
         margin-bottom: 10px;
     }
 
     div#footer div.footer-content div.footer-contact form button {
-        width: 250px;
+        width: 150px;
         height: 42px;
         padding: 13px 0;
         position: static;
@@ -1272,7 +1272,7 @@ div#footer div.footer-terms p {
     }
 
     div#footer div.footer-content div.footer-contact form input {
-        width: 350px;
+        width: 250px;
         height: 44px;
         border-radius: 34px;
         font-size: 14px;
@@ -1280,11 +1280,10 @@ div#footer div.footer-terms p {
     }
 
     div#footer div.footer-content div.footer-contact form button {
-        width: 350px;
+        width: 250px;
         height: 42px;
         padding: 13px 0;
         position: static;
-        margin-left: 15px;
     }
 
     div#footer div.footer-terms p {
