@@ -669,6 +669,8 @@ div#footer div.footer-terms p {
     
     #header {
         padding: 16px 40px;
+        justify-content: center;
+        align-items: center;
     }
 
     #header div {
@@ -683,24 +685,25 @@ div#footer div.footer-terms p {
         gap: 10px;
     }
 
-    .navbar-menu li a{
-        padding: 8px 16px;
-    }
-
-    .navbar-menu li a{
-        font-size: 12px;
+    div#header ul {
+        display: none;
     }
 
     #header .navbar-logo {
-        width: 100px;
-        height: 30px;
+        width: 140px;
+        height: 40px;
         margin-top: 14px;
+        
     }
 
     /* First Section  */
     div#first-section {
-        height: 450px;
+        height: 500px;
         text-align: center;
+    }
+
+    button {
+        font-size: 12px;
     }
 
     div#first-section div.line-section {
@@ -937,7 +940,7 @@ div#footer div.footer-terms p {
     div#testimonial-section div.side2 div.user-info div.user-details span {
         font-weight: 300;
         margin-top: 8px;
-        font-size: 10px;
+        font-size: 6px;
         color: black;
     }
     
